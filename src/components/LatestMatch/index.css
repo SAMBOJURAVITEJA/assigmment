@@ -1,0 +1,15 @@
+.latestMatchContainer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1e293b;
+  background-size: cover;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.latestImage {
+  height: 300px;
+  width: 300px;
+}

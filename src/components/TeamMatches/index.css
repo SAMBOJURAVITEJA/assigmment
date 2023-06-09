@@ -1,0 +1,51 @@
+.TeamMatchContainer {
+  display: flex;
+  justify-content: center;
+}
+.TeamMatchImageContainer {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+.TeamImage {
+  width: 100%;
+}
+.cardTeamMatchIplContainer {
+  width: 90%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+ul {
+  padding-left: 0px;
+}
+.matchCardContainer {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.kkr {
+  background-image: linear-gradient(to top, #0f172a, #a4261d);
+}
+
+.srh {
+  background-image: linear-gradient(to top, #0f172a, #5755a7);
+}
+
+.rcb {
+  background-image: linear-gradient(to top, #0f172a, #d91c1f);
+}
+
+.mi {
+  background-image: linear-gradient(to top, #0f172a, #f7db00);
+}
+
+.csk {
+  background-image: linear-gradient(to top, #0f172a, #da237b);
+}
+
+.rr {
+  background-image: linear-gradient(to top, #0f172a, #13418b);
+}

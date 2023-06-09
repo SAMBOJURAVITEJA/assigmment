@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+}
+.teamCardContainer {
+  border: 2px #ffffff solid;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  background-color: transparent;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 200px;
+  height: 100px;
+}
+.cardImage {
+  height: 50px;
+  width: 50px;
+}
